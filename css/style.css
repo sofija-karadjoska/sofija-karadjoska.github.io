@@ -902,7 +902,7 @@ body.offcanvas {
     -webkit-box-shadow: none;
     box-shadow: none; }
 
-    #get-in-touch .btn-learn {
+    #get-in-touch .btn-download {
   background-color: #A60859;
   border: 2px solid #A60859; 
     padding: 15px 30px !important;
@@ -912,7 +912,7 @@ body.offcanvas {
     -ms-border-radius: 30px;
     border-radius: 30px; }
 
- #get-in-touch .btn-learn:hover {
+ #get-in-touch .btn-download:hover {
     background: #737373 !important;
     border: 2px solid #737373 !important; 
      }    
