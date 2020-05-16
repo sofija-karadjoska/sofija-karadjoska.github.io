@@ -902,12 +902,12 @@ body.offcanvas {
     -webkit-box-shadow: none;
     box-shadow: none; }
 
-    #get-in-touch .btn-download {
+    .btn-download {
   background-color: #A60859;
   border: 2px solid #A60859; 
     }
 
- #get-in-touch .btn-download:hover {
+    .btn-download:hover {
     background: #737373 !important;
     border: 2px solid #737373 !important; 
      }    
