@@ -21,7 +21,7 @@ a {
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #f7409f;
+    color: #a60859;
     outline: none;
     text-decoration: none !important; }
 
@@ -268,7 +268,7 @@ figure {
           #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
             cursor: pointer;
             background: transparent;
-            border: 2px solid #f7409f; }
+            border: 2px solid #a60859; }
     #colorlib-hero .flexslider .flex-direction-nav {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
@@ -635,8 +635,8 @@ body.offcanvas {
     border-radius: 30px; }
 
 .colorlib-work .btn-learn {
-  background-color: #f7409f;
-  border: 2px solid #f7409f; 
+  background-color: #a60859;
+  border: 2px solid #a60859; 
     padding: 15px 30px !important;
     font-size: 13px;
     -webkit-border-radius: 30px;
@@ -775,19 +775,19 @@ body.offcanvas {
         -ms-border-radius: 2px;
         border-radius: 2px; }
       .pagination li a:hover, .pagination li a:focus {
-        background: #f7409f;
+        background: #a60859;
         color: #fff;
-        border: 1px solid #f7409f; }
+        border: 1px solid #a60859; }
       @media screen and (max-width: 768px) {
         .pagination li a {
           padding: 7px 15px; } }
     .pagination li.active a {
-      background: #f7409f;
-      border: 1px solid #f7409f !important; }
+      background: #a60859;
+      border: 1px solid #a60859 !important; }
       .pagination li.active a:hover, .pagination li.active a:focus {
-        background: #f7409f;
+        background: #a60859;
         color: #fff;
-        border: 1px solid #f7409f !important; }
+        border: 1px solid #a60859 !important; }
 
 .btn {
   margin-right: 4px;
