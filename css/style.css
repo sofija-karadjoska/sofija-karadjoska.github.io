@@ -912,7 +912,7 @@ body.offcanvas {
     -ms-border-radius: 30px;
     border-radius: 30px; }
 
-.colorlib-work .btn-learn:hover {
+ #get-in-touch .btn-learn:hover {
     background: #737373 !important;
     border: 2px solid #737373 !important; 
      }    
