@@ -903,14 +903,16 @@ body.offcanvas {
     box-shadow: none; }
 
     .btn-download {
-      margin-top: 33%;
-  background-color: #A60859;
-  border: 2px solid #A60859; 
+     background-color: #A60859;
+     border: 2px solid #A60859; 
     }
 
     .btn-download:hover {
     background: #737373 !important;
     border: 2px solid #737373 !important; 
+     }
+     .download{
+      margin-top: 33%;
      }    
 
 .form-control {
