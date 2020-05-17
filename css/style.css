@@ -903,6 +903,7 @@ body.offcanvas {
     box-shadow: none; }
 
     .btn-download {
+      margin-top: 10%;
   background-color: #A60859;
   border: 2px solid #A60859; 
     }
