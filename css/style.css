@@ -51,15 +51,15 @@ figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #F75940; }
+  background: #A60859; }
 
 ::-moz-selection {
   color: #fff;
-  background: #F75940; }
+  background: #A60859; }
 
 ::selection {
   color: #fff;
-  background: #F75940; }
+  background: #A60859; }
 
 #colorlib-page {
   width: 100%;
@@ -634,7 +634,7 @@ body.offcanvas {
     -ms-border-radius: 30px;
     border-radius: 30px; }
 
-.colorlib-work .btn-learn {
+.colorlib-work .btn-learn, .colorlib-about .btn-learn {
   background-color: #A60859;
   border: 2px solid #A60859; 
     padding: 15px 30px !important;
@@ -644,7 +644,7 @@ body.offcanvas {
     -ms-border-radius: 30px;
     border-radius: 30px; }
 
-.colorlib-work .btn-learn:hover {
+.colorlib-work .btn-learn:hover,.colorlib-about .btn-learn:hover  {
     background: #737373 !important;
     border: 2px solid #737373 !important; 
      }    
@@ -902,16 +902,8 @@ body.offcanvas {
     -webkit-box-shadow: none;
     box-shadow: none; }
 
-    .btn-download {
-     background-color: #A60859;
-     border: 2px solid #A60859; 
-    }
-
-    .btn-download:hover {
-    background: #737373 !important;
-    border: 2px solid #737373 !important; 
-     }
-     .download{
+    
+  .download{
       margin-top: 6em;
      }    
 
