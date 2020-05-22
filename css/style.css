@@ -677,17 +677,17 @@ body.offcanvas {
         .colorlib-social li a {
           padding: 10px 8px; } }
       .colorlib-social li a:hover {
-        color: #F75940; }
+        color: #A60859; }
       .colorlib-social li a:hover, .colorlib-social li a:active, .colorlib-social li a:focus {
         outline: none;
         text-decoration: none;
-        color: #F75940; }
+        color: #A60859; }
 
 
 
 .colorlib-more-contact {
   background: #fafafa;
-  border: 1px solid red; }
+  border: 1px solid #A60859; }
 
 .colorlib-feature {
   text-align: left;
@@ -712,7 +712,7 @@ body.offcanvas {
     .colorlib-feature .colorlib-icon i {
       display: table-cell;
       vertical-align: middle;
-      color: #F75940;
+      color: #A60859;
       font-size: 40px;
       height: 100px; }
       @media screen and (max-width: 1200px) {
@@ -734,7 +734,7 @@ body.offcanvas {
   .colorlib-feature.colorlib-feature-sm .colorlib-text {
     margin-top: 30px; }
   .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-    color: #737373;
+    color: #A60859;
     font-size: 40px; }
     @media screen and (max-width: 1200px) {
       .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
