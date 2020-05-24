@@ -626,10 +626,10 @@ body.offcanvas {
 #get-in-touch {
   padding: 2em; }
 
-.btn-contact{
+#get-in-touch .btn-contact{
   background-color: #ffa07a;
   color:#000;
-}  
+    }  
  /* #get-in-touch .btn-learn {
     padding: 15px 30px !important;
     font-size: 13px;
