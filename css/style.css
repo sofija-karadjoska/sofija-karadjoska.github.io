@@ -626,7 +626,7 @@ body.offcanvas {
 #get-in-touch {
   padding: 2em; }
   
-  #get-in-touch .btn-learn {
+ /* #get-in-touch .btn-learn {
     padding: 15px 30px !important;
     font-size: 13px;
     -webkit-border-radius: 30px;
@@ -647,7 +647,7 @@ body.offcanvas {
 .colorlib-work .btn-learn:hover,.colorlib-about .btn-learn:hover  {
     background: #737373 !important;
     border: 2px solid #737373 !important; 
-     }    
+     }    */
 
 .colorlib-social {
   padding: 0;
