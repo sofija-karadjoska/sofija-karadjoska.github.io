@@ -907,6 +907,7 @@ body.offcanvas {
       margin-top: 6em;
      } 
   .btn-contact{
+    border: 2px solid salmon;
       background-color: salmon;
       color:#000;
      }   
