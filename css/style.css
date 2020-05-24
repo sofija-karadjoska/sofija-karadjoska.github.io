@@ -800,7 +800,7 @@ body.offcanvas {
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
-  border-radius: 2px;
+  border-radius: 30px;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -906,12 +906,7 @@ body.offcanvas {
   .download{
       margin-top: 6em;
      } 
-  .btn-contact{
-    border: 2px solid #ffa07a;
-      background-color: #ffa07a;
-      color:#000;
-      border-radius: 30px;
-     }   
+  
 
 .form-control {
   -webkit-appearance: none;
