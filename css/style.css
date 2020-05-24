@@ -624,34 +624,7 @@ body.offcanvas {
   line-height: 1.5; }
 
 #get-in-touch {
-  padding: 2em; }
-
-#get-in-touch .btn-contact{
-  background-color: #ffa07a;
-  color:#000;
-    }  
- /* #get-in-touch .btn-learn {
-    padding: 15px 30px !important;
-    font-size: 13px;
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
-    -ms-border-radius: 30px;
-    border-radius: 30px; }
-
-.colorlib-work .btn-learn, .colorlib-about .btn-learn {
-  background-color: #0d95b7;
-  border: 2px solid #0d95b7; 
-    padding: 15px 30px !important;
-    font-size: 13px;
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
-    -ms-border-radius: 30px;
-    border-radius: 30px; }
-
-.colorlib-work .btn-learn:hover,.colorlib-about .btn-learn:hover  {
-    background: #737373 !important;
-    border: 2px solid #737373 !important; 
-     }    */
+  padding: 2em; } 
 
 .colorlib-social {
   padding: 0;
@@ -834,6 +807,11 @@ body.offcanvas {
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
       background: #424242;
       color: #fff; }
+
+#get-in-touch .btn-contact{
+  background-color: #ffa07a;
+  color:#000;
+    }  
 
 .btn-success {
   background: #5cb85c;
