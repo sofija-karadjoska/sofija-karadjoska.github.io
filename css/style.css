@@ -809,12 +809,12 @@ body.offcanvas {
       color: #fff; }
 
 #get-in-touch .btn-contact{
-  border: 2px solid #ffa07a;
+  border: 2px solid #ffa07a !important;
   background-color: #ffa07a;
   color:#000;
     }  
 #get-in-touch .btn-contact:hover,#get-in-touch .btn-contact:focus,#get-in-touch .btn-contact:active{
-    color: #fff;
+    color: #fff !important;
     }
 .btn-success {
   background: #5cb85c;
