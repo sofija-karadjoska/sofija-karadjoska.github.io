@@ -1075,16 +1075,16 @@ body.offcanvas {
 /*SCROLLBAR*/
 #colorlib-aside::-webkit-scrollbar-track{
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0);
-  background-color: #bfbfbf;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 #colorlib-aside::-webkit-scrollbar{
-  width: 9px;
-  background-color: #bfbfbf;
+  width: 6px;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 #colorlib-aside::-webkit-scrollbar-thumb{
-  background-color: #bfbfbf;
-  width: 9px;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 6px;
 
 }
 
