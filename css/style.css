@@ -737,16 +737,21 @@ body.offcanvas {
    }
  .colorlib-bg-color h1{
   position: absolute;
-  top:3%;
-  left: 33%;
+  top:4%;
+  left: 29%;
   font-size: 99px;
   font-family: "Open Sans";
   font-weight: 700;
-  letter-spacing: 10px;   
+  letter-spacing: 3px;   
   text-align: center;
   color: #fff;
-  opacity: .3;    
+  opacity: .29;    
    }
+  @media screen and (max-width: 530px) {
+      .colorlib-bg-color h1 {
+        font-size: 89px;
+        top:3;
+        left:19%; } }
 .pagination {
   padding: 0; }
   .pagination li {
