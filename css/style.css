@@ -627,7 +627,12 @@ body.offcanvas {
 
 #get-in-touch {
   padding: 2em; } 
-
+#get-in-touch h1{
+  font-size: 36px;
+  text-align: center;
+  color: #0d95b7;
+  opacity: .5;
+   }
 .colorlib-social {
   padding: 0;
   margin: 0;
