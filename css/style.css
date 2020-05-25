@@ -458,7 +458,8 @@ body.offcanvas {
   -ms-box-shadow: none !important;
   -o-box-shadow: none !important;
   box-shadow: none !important;
-  border: none; }
+  border: none;
+  background-color: azure; }
 
 .panel-heading a:after {
   font-family: "icomoon";
