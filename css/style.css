@@ -627,12 +627,7 @@ body.offcanvas {
 
 #get-in-touch {
   padding: 2em; } 
-#get-in-touch h1{
-  font-size: 36px;
-  text-align: center;
-  color: #0d95b7;
-  opacity: .5;
-   }
+
 .colorlib-social {
   padding: 0;
   margin: 0;
@@ -736,10 +731,22 @@ body.offcanvas {
   letter-spacing: .2em;
   text-transform: uppercase; }
 
-.colorlib-bg-color {
+.colorlib-bg-color {  
   background: #D8F2EC;
-  position: relative; }
-
+  position: relative;
+   }
+ .colorlib-bg-color h1{
+  position: absolute;
+  top:3%;
+  left: 33%;
+  font-size: 99px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  letter-spacing: 10px;   
+  text-align: center;
+  color: #fff;
+  opacity: .3;    
+   }
 .pagination {
   padding: 0; }
   .pagination li {
