@@ -619,8 +619,12 @@ body.offcanvas {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 400;
-  text-decoration: underline; }
+  text-decoration: underline;
+  padding: 30px; }
 
+.colorlib-work p{
+padding-top: 30px !important;
+}
 .colorlib-lead {
   font-size: 15px;
   line-height: 1.5; }
