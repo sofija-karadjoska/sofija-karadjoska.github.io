@@ -70,7 +70,7 @@ figure {
 #colorlib-aside {
   padding-top: 3em;
   padding-bottom: 40px;
-  padding-left: 3em;
+  padding-left: 1.9em;
   padding-right: 3em;
   width: 20%;
   position: fixed;
@@ -193,7 +193,7 @@ figure {
     padding: 0 20px 0 0; }
     @media screen and (max-width: 768px) {
       #colorlib-aside .colorlib-footer {
-        position: relative;
+        position: relative;        
         bottom: 0; } }
     #colorlib-aside .colorlib-footer span {
       display: block; }
